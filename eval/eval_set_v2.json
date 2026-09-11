@@ -1,0 +1,600 @@
+[
+  {
+    "question": "Christopher Duntsch'un 'Dr. Ölüm' lakabını almasının sebebi nedir?",
+    "answer": "Christopher Duntsch, ameliyatları sırasında hastalarında ölüme veya ciddi sakatlıklara yol açan çok sayıda tıbbi hata yaptığı için 'Dr. Ölüm' lakabıyla anılmaktadır.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      5421
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Kevin Mitnick'in hapis cezasından sonraki hayatı nasıl geçti?",
+    "answer": "Kevin Mitnick, hapis cezasının ardından beyaz şapkalı bir hacker olarak güvenlik danışmanlığı yapmaya başladı ve dünya çapında konferanslara katıldı. Bilgisayar güvenliği konusunda deneyimlerini paylaşarak şirketlere ve bireylere siber saldırılardan korunma konusunda yardımcı oldu.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2234
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Henri Pitot hangi alanda çalışmalar yapmıştır?",
+    "answer": "Henri Pitot, Fransız hidrolik mühendisi olarak köprü, kanal tasarımı ve su kemeri inşaatlarında çalışmıştır.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      630
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Homeotermik hayvanlar her zaman endotermik midir? Eğer hayır ise, sabit vücut sıcaklıklarını nasıl korurlar?",
+    "answer": "Hayır, homeotermik hayvanlar her zaman endotermik olmak zorunda değildir. Bazı homeotermler, sabit vücut sıcaklığını yalnızca davranışsal mekanizmalarla sağlayabilirler. Örneğin, çöl kertenkeleleri gölgeye girerek veya güneşlenerek vücut sıcaklıklarını düzenleyebilirler.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4645
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Homo Faber romanında Frisch hangi toplumsal eleştiriyi yapmaktadır?",
+    "answer": "Frisch, Homo Faber'da modern teknolojinin insanı kendi doğasından uzaklaştırdığını ve yabancılaşmasına yol açtığını eleştirmektedir. Roman, teknolojiye aşırı bağımlılığın getirdiği sonuçları irdeler.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2948
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Nedensellik neden fizik ve diğer pozitif bilimler için bu kadar önemlidir?",
+    "answer": "Nedensellik, olaylar arasındaki neden-sonuç ilişkilerini anlamamızı sağlar. Pozitif bilimler, gözlemlenebilir dünyayı anlamak ve açıklamakla ilgilenir. Olayları sadece tanımlamak değil, aynı zamanda birbirleriyle nasıl ilişkili olduklarını ve birinin diğerini nasıl etkilediğini anlamak isteriz. Nedensellik bu anlayışı sağlayan temel bir kavramdır. Örneğin, fizikte nedensellik, hareket yasalarını, kuvvetlerin etkilerini ve evrenin işleyişini anlamamızı sağlar.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4205
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Windows Home Server 2011'in önceki sürümlerinden farkı nedir?",
+    "answer": "Windows Home Server 2011, önceki sürümlerden farklı olarak x86-64 işlemci mimarisini destekler ve müşteri yedeklemelerinde köklü değişiklikler yapılmıştır. Ayrıca paylaşılan klasörlerin yapısı da değişmiştir. Bu nedenle, eski sürümlerden yeni sürüme geçiş için net bir yöntem yoktur.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      733
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Mach prensibi, genel relativiteyi nasıl etkilemiştir?",
+    "answer": "Mach prensibi, Einstein'ı evrenin büyük ölçekli yapısının yerel fizik kanunlarını nasıl etkileyebileceği fikrini düşünmeye sevk etti. Genel relativitede, maddenin dağılımının uzay-zamanın eğriliğini belirlediği ve bu eğriliğin de cisimlerin hareketini etkilediği varsayılır. Mach prensibi, bu eğriliğin evrenin genel yapısından etkilendiğini öne sürer. ",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2081
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Duran dalgaların oluşumunda rezonans prensibi nasıl rol oynuyor?",
+    "answer": "Rezonans prensibine göre, bir sistem kendi doğal frekansında uyarıldığında, yansıyan dalgalar yapıcı girişim yaparak duran dalgalar oluşturur. Yani, bir sistemin rezonans frekansında harekete geçirilen dalgalar, sistem içinde tekrarlayan ve sabit duran dalga kalıpları oluşturacak şekilde yansır.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3689
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Pixel art'ın kökeni nerelere dayanıyor?",
+    "answer": "Pixel art, grafik hesap makineleri gibi sınırlı sistemlerin yanı sıra 8 bit ve 16 bit bilgisayarlar ile video oyun konsollarının yaygınlaşmasıyla ortaya çıkmıştır.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4766
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Sonic and the Black Knight oyununda Dr. Eggman yer almıyorsa, Sonic'in düşmanı kimdir?",
+    "answer": "Oyunda Sonic'in baş düşmanı, Kral Arthur efsanesinden esinlenilerek yaratılmış sihirli bir kılıç olan Excalibur'u ele geçirmeye çalışan kötü kalpli bir şövalye olan Sir Lancelot'tur.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      508
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Karar verme sürecinde bireyin tercih ve değerlerinin rolü nedir?",
+    "answer": "Karar verme süreci, özünde bireyin tercihlerine ve değerlerine dayanır.  Herkesin farklı öncelikleri ve inançları vardır ve bu da aynı duruma farklı tepkiler vermesine yol açar. Karar verirken, bireyler mevcut seçenekleri kendi değerleri ışığında değerlendirir ve en çok onlara uyan seçeneği tercih ederler.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4931
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Vakum durumu aslında boş mu? Eğer değilse, içinde neler var?",
+    "answer": "Hayır, vakum durumu gerçek anlamda boş değildir. Kuantum mekaniğine göre vakum, geçici elektromanyetik dalgalar ve sürekli olarak belirip kaybolan sanal parçacıklar içerir. Bu parçacıklar fiziksel olarak gözlemlenemez ancak varlıklarının etkilerini ölçebiliriz.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4813
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Fitopatolojinin bitki koruma içindeki önemi nedir?",
+    "answer": "Fitopatoloji, bitkileri hastalıklara karşı korumanın temelini oluşturur. Hastalıkların nedenlerini, yayılışını ve kontrol yöntemlerini anlamak, sağlıklı bitki yetiştiriciliği için kritik önem taşır. Bu sayede tarımsal verim artar, gıda güvenliği sağlanır ve çevresel etkiler minimize edilir.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      934
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Rastgele karar ormanları, karar ağaçlarının aşırı uyma problemini nasıl çözüyor?",
+    "answer": "Rastgele karar ormanları, eğitim setine aşırı uymayı önlemek için birden fazla karar ağacı oluşturur ve bu ağaçların tahminlerini birleştirir. Her ağaç farklı bir rastgele alt küme üzerinde eğitilir ve bu da her ağacın farklı bir bakış açısı kazanmasını sağlar. Sonuç olarak, ormanın genel tahmini daha istikrarlı ve genelleştirilebilir hale gelir.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      318
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Primum non nocere ilkesi hangi durumlarda sıklıkla kullanılır?",
+    "answer": "Primum non nocere ilkesi, aşikar bir zarar riski barındırıp daha düşük bir fayda şansı taşıyan (veya taşıdığı iddia edilen) tıbbi müdahaleler tartışılırken sıklıkla kullanılır.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2275
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Livingston şehrinin nüfusu 2010 yılında kaç kişiydi?",
+    "answer": "Livingston şehrinin nüfusu 2010 sayımına göre 13.058 kişidir.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3655
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Astronomia Nova kitabının günmerkezlilik konusundaki iddiaları nelerdir ve bu iddialar neden önemliydi?",
+    "answer": "Astronomia Nova, Güneş'in evrenin merkezinde olduğunu savunan günmerkezlilik teorisini destekleyen güçlü kanıtlar sunar. Kepler, Mars'ın hareketlerini inceleyerek gezegenlerin Güneş etrafında eliptik yörüngeler izlediğini göstermiştir. Bu bulgu, o zamana kadar kabul gören ve Dünya'nın evrenin merkezi olduğu fikrini savunan Ptolemaios sistemiyle çelişiyordu. Kepler'in çalışmaları, günmerkezlilik teorisini destekleyen önemli bir kanıt sağladı ve bilimsel düşüncede devrim yarattı.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4300
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Stereotaktik radyocerrahide tek seferde yüksek doz radyasyon kullanılmasının nedeni nedir?",
+    "answer": "Tek seferlik yüksek doz radyasyon, tümör hücrelerinin hızlı ve etkili bir şekilde yok edilmesini sağlar. Bu yöntem, geleneksel radyoterapide olduğu gibi çok sayıda seansta düşük doz radyasyon verilmesine kıyasla daha kısa bir tedavi süresi ve daha az yan etki sunar.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3856
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "CompTIA'nın kuruluş amacı neydi ve bu amaç zamanla nasıl değişti?",
+    "answer": "CompTIA, 1982 yılında ABCD adıyla 5 mikro bilgisayar bayisi tarafından kuruldu. Başlangıçta amacı, bilgisayar bayilerinin çıkarlarını korumak ve sektörü geliştirmekti. Zamanla, bilgisayar endüstrisinin büyümesiyle birlikte CompTIA da evrimleşti ve ismini Computing Technology Industry Association olarak değiştirdi. Artık sadece bayileri değil, tüm bilgisayar endüstrisi çalışanlarını kapsayan bir organizasyona dönüştü. Eğitim, sertifika programları ve politika çalışmaları gibi faaliyetleriyle IT sektörünün gelişimine katkıda bulunmayı amaçlıyor.",
+    "category": "factual",
+    "answerable": true,
+    "relevant_doc_ids": [
+      5224
+    ],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "devletin rolü ve konomik yaklaşım açısından klasik liberalizm ve sosyal liberalizm  nasıl farklılaştırır",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2383,
+      1895
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Windows Home Server ile Windows Home Server 2011 arasındaki temel farkları yazar mısın",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      51,
+      733
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Duran dalgaların oluşumu ile rezonans arasındaki ilişki nedir?Duran dalgaların oluşumu ile rezonans arasındaki ilişkiyi açıklar mısın",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3689,
+      4176
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "somers adaları şirketinin bermudanın ingiliz yönetimiyle olan ilişkisinde rolü nedir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3,
+      1667
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "nedensellik ilkesinin anlamı ve bilisel araştırmalar açısından önemi nedir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2307,
+      843,
+      4205
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Analog ve dijital televizyon teknolojileri  sinyal kullanımı yönünden farkları nedir",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      1850,
+      4382
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Dijital sinyal analog sinyalden l ellde edilişi ve iki sinyal türünün farkları nelerdir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3851,
+      4370
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "klasik  ve piyasa liberalizmi hangi temel ilkelerde benzerdir veya benzerlik gösterir",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2383,
+      1525
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "klasik ve neoklasik liberalizmin  özgürlük ve piyasa anlayışları bakış açıları nasıl karşılaştırılabilir",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2383,
+      3599
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "liberalizmin devlet ve piyasa konusundaki yaklaşımlarında sosyal ve piyasa liberalizmin farkı nedir",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      1895,
+      1525
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "görsel ve işitsel sinyallerin iletimi açısından analog ve dijital televizyon  nasıl farklılaşıyor",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      1850,
+      4382
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "nedensellik ve etiyoloji arasındaki kavramsal ilişkiyi açıklayınız",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2307,
+      2289
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "nedenselliğin bilimsel araştırmalarda rolü ve etiyoloji bu kavramı  nasıl özel bir inceleme konusuna dönüştürür",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4205,
+      843,
+      2289
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "uran dalgaların oluşumunda girişim ve rezonans kavramları birlikte rolü nedir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3689,
+      1073,
+      4176
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Duran dalgalardaki yapıcı girişim ile rezonans frekansı arasındaki ilişki nasıl anlatılabilir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3689,
+      4176
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "omers Adaları Şirketi'nin faaliyetleri Bermuda'nın İngiliz yönetimi altındaki tarihsel konumuyla ilişkisi nedir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      1667,
+      3
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Windows Home Server 2011'in Windows Home Server ailesindeki konumu ve Windows Server 2012 ile olan   ardıllık ilşkisini açıklayınız",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      733,
+      51,
+      1236
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Analog bir sinyalin sayısallaştırılması dijital televizyon teknolojisinin analog televizyondan ayrılmasını nasıl  açıklayabilir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3851,
+      1850,
+      4382
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Fototrofların ışığı enerji kaynağı olarak kullanması fotosentez süreciyle nasıl ilişkilendirilir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2264,
+      24
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Pixel art ve demoscene, sınırlı bilgisayar kaynaklarını dijital sanat üretiminde kullanım alanları nelerdir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4766,
+      4872
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Klasik liberalizmden sosyal ve neoklasik liberalizme geçildiğinde sosyal adalet ile serbest piyasa arasındaki ilişkiyi değiştirir mi ve değiştirirse nasıl değiştirir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2383,
+      1895,
+      3599
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Piyasa liberalizmi, klasik liberalizm ve sosyal liberalizm özgürlük kavramını hangi ortak ve farklı ekonomik yaklaşımlarla değerlendirir",
+    "category": "multi_hop",
+    "answerable": true,
+    "relevant_doc_ids": [
+      1525,
+      2383,
+      1895
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Piyasa liberalizmi ile neoklasik liberalizm serbest piyasa ve sosyal adalet  bakış açısında nasıl karşılaştırabilir",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      1525,
+      3599
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Duran dalga ve rezonans kavramları fiziksel özellikleri ve birbirleriyle ilişkileri bakımından nasıl kıyaslanabilir",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3689,
+      4176
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Windows Home Server ile Windows Server 2012 kullanım amacı ve hedef kullanıcı kitlesi açısından farklılaşma  kriterleri nedir",
+    "category": "comparison",
+    "answerable": true,
+    "relevant_doc_ids": [
+      51,
+      1236
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "bunların birbiriyle temel farkları nelerdir",
+    "answer": null,
+    "category": "ambiguous",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2383,
+      1895
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "yenü sürümün eskisinden farkı nedir",
+    "answer": null,
+    "category": "ambiguous",
+    "answerable": true,
+    "relevant_doc_ids": [
+      51,
+      733
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "bu iki sinyal türü birbirinden nasıl farklılaşıyor",
+    "answer": null,
+    "category": "ambiguous",
+    "answerable": true,
+    "relevant_doc_ids": [
+      3851,
+      4370
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "bu olay neden ortaya çıkar",
+    "answer": null,
+    "category": "ambiguous",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4176
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "bu şirket buradaki rolü nedir",
+    "answer": null,
+    "category": "ambiguous",
+    "answerable": true,
+    "relevant_doc_ids": [
+      1667,
+      3
+    ],
+    "source": "manual"
+  },
+  {
+    "question": "Bu kavram bilim açısından neden önemlidir?",
+    "answer": null,
+    "category": "ambiguous",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4205,
+      843
+    ],
+    "source": "synthetic_human_validated"
+  },
+  {
+    "question": "Bu sanat türü neden eski bilgisayarlarla ilişkilidir?",
+    "answer": null,
+    "category": "ambiguous",
+    "answerable": true,
+    "relevant_doc_ids": [
+      4766
+    ],
+    "source": "synthetic_human_validated"
+  },
+  {
+    "question": "Bu organizmalar enerjiyi nasıl elde eder?",
+    "answer": null,
+    "category": "ambiguous",
+    "answerable": true,
+    "relevant_doc_ids": [
+      2264
+    ],
+    "source": "synthetic_human_validated"
+  },
+  {
+    "question": "Hidrolik mühendisliği günlük hayatta nasıl kullanılır?",
+    "answer": "Üzgünüm, bu konuda yardımcı olamam. Başka bir sorun var mı?",
+    "category": "unanswerable",
+    "answerable": false,
+    "relevant_doc_ids": [],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Dallanma buyrukları nasıl ikiye ayrılır ve bu ayrımın program akışı üzerindeki etkisi nedir?",
+    "answer": "Bilmediğim bir konuya dair soru sordunuz. Başka bir konuda yardımcı olabilir miyim?",
+    "category": "unanswerable",
+    "answerable": false,
+    "relevant_doc_ids": [],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Kimyasal silahların cansız olmaları, yayılmalarını engeller mi?",
+    "answer": "Sorunuzu yanıtlamak için yeterli bilgiye sahip değilim.",
+    "category": "unanswerable",
+    "answerable": false,
+    "relevant_doc_ids": [],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Saddam Hüseyin'in romanının telif hakları kimlere aitti?",
+    "answer": "Üzgünüm, bu konuda sana yardımcı olamam. Başka bir şeyde yardımcı olabilir miyim?",
+    "category": "unanswerable",
+    "answerable": false,
+    "relevant_doc_ids": [],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Sigrid Hunke'nin 'Avrupa'nın Üzerine Doğan İslâm Güneşi' kitabı hangi yönleriyle dikkat çekiyor?",
+    "answer": "Üzgünüm, bu konuda yardımcı olamam.",
+    "category": "unanswerable",
+    "answerable": false,
+    "relevant_doc_ids": [],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "SHA-1 algoritması neden güvenli kabul edilmiyor?",
+    "answer": "Sorunuzu yanıtlamak için yeterli bilgiye sahip değilim.",
+    "category": "unanswerable",
+    "answerable": false,
+    "relevant_doc_ids": [],
+    "source": "WikiRAG-TR"
+  },
+  {
+    "question": "Bletchley Park'ın bu muharebede oynadığı rol neydi?",
+    "answer": "Üzgünüm, bu konuda yardımcı olamam.",
+    "category": "unanswerable",
+    "answerable": false,
+    "relevant_doc_ids": [],
+    "source": "WikiRAG-TR"
+  }
+]

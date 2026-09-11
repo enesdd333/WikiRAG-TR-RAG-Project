@@ -1,0 +1,15 @@
+datasets
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+torch
+rank-bm25
+langchain-text-splitters
+scikit-learn
+gradio
+arize-phoenix
+arize-phoenix-otel
+opentelemetry-sdk
